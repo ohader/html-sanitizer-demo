@@ -16,6 +16,8 @@ composer install
 composer serve
 ```
 
+Open the dev server at [`http://127.0.0.1:9001/`](http://127.0.0.1:9001/) in any browser and test XSS payloads.
+
 ## Report Security Vulnerabilities
 
 In case you identified new cross-site scripting vulnerabilities in `typo3/html-sanitizer`,
